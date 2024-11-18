@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RathodChetan1122
+- 👋 Hi, I’m @Rathod Chetan
 - 👀 I’m interested in coding with team
 - 🌱 I’m currently learning andriod devvelopment
 - 💞️ I’m looking to collaborate on developing a andriod application
