@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rathod Chetan
-- 👀 I’m interested in coding with team
-- 🌱 I’m currently learning andriod devvelopment
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning MERN Technologies and DSA
 - 💞️ I’m looking to collaborate on developing a andriod application
-- 📫 How to reach me through gmail chetanrathod1257@gmail.com
+- 📫 How to reach me through gmail chethanindia41@gmail.com
 - 😄 Pronouns: chetan
 - ⚡ Fun fact: coding is  easy when you have knowledge about it.
 
