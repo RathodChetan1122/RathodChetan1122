@@ -192,36 +192,9 @@ class Chetan:
 
 
 ## 🔥 Contribution Streak
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-contributions-api.jogruber.de/v4/RathodChetan1122?y=2025&flat=true" width="750px" alt="2025 Contributions"/>
-    </td>
-    <td><strong>2025</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-contributions-api.jogruber.de/v4/RathodChetan1122?y=2024&flat=true" width="750px" alt="2024 Contributions"/>
-    </td>
-    <td><strong>2024</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-contributions-api.jogruber.de/v4/RathodChetan1122?y=2023&flat=true" width="750px" alt="2023 Contributions"/>
-    </td>
-    <td><strong>2023</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-contributions-api.jogruber.de/v4/RathodChetan1122?y=2022&flat=true" width="750px" alt="2022 Contributions"/>
-    </td>
-    <td><strong>2022</strong></td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/RathodChetan1122" alt="GitHub Contribution Chart">
+</p>
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CURRENTLY LEARNING                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
