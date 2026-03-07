@@ -252,7 +252,7 @@ class Chetan:
 
 **If my work helped you or inspired you, drop a ⭐ on any repo — it means the world!**
 
-<a href="https://www.buymeacoffee.com/" target="_blank">
+<a href="https://buymeacoffee.com/chetanrathod77" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
 </a>
 
