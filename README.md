@@ -244,7 +244,7 @@ class Chetan:
 
 <div align="center">
 
-### 💡 Dev Philosophy
+### 💡 RATHOD CHETAN
 
 > *"First, solve the problem. Then, write the code."* — John Johnson 🚀
 
