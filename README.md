@@ -190,14 +190,10 @@ class Chetan:
 <!--               GITHUB ACTIVITY GRAPH                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🔥 GitHub Streak Stats
+## 📊 3D Contribution Graph
 
 <div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RathodChetan1122&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RathodChetan1122&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RathodChetan1122&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -239,6 +235,8 @@ class Chetan:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RathodChetan1122&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
 </div>
+
+
 
 ---
 
