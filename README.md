@@ -198,7 +198,15 @@ class Chetan:
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/RathodChetan1122" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RathodChetan1122&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</p>
+
+<p align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RathodChetan1122&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&area_color=0e4429&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CURRENTLY LEARNING                        -->
