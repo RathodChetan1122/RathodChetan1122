@@ -198,12 +198,9 @@ class Chetan:
 
 ## 🔥 Contribution Streak
 
-## 📅 Contribution Calendar
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/RathodChetan1122" alt="Chetan Rathod Github chart" />
+  <img src="https://github-contributions-api.jogruber.de/v4/RathodChetan1122?y=last&theme=github-dark" />
 </p>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
