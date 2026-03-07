@@ -190,24 +190,15 @@ class Chetan:
 <!--               GITHUB ACTIVITY GRAPH                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📊 3D Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RathodChetan1122&theme=tokyonight&hide_border=true" />
-</div>
 
 ## 🔥 Contribution Streak
 <div align="center">
-  <picture>
-    <img src="https://ghchart.rshah.org/39d353/RathodChetan1122" alt="Contribution Chart" width="100%" />
-  </picture>
+  <a href="https://github.com/RathodChetan1122">
+    <img src="https://ghchart.rshah.org/39d353/RathodChetan1122" 
+         alt="RathodChetan1122 Contribution Chart" 
+         width="100%" />
+  </a>
 </div>
-
-
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RathodChetan1122&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&area_color=0e4429&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</p>
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CURRENTLY LEARNING                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
