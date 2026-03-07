@@ -198,8 +198,10 @@ class Chetan:
 
 ## 🔥 Contribution Streak
 
+## 📅 Contribution Calendar
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RathodChetan1122&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://ghchart.rshah.org/RathodChetan1122" alt="Chetan Rathod Github chart" />
 </p>
 
 ---
