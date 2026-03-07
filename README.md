@@ -197,12 +197,9 @@ class Chetan:
 </div>
 
 ## 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://github-contributions-api.jogruber.de/v4/RathodChetan1122?y=last&theme=github-dark" />
+  <img src="https://ghchart.rshah.org/409ba5/RathodChetan1122" />
 </p>
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CURRENTLY LEARNING                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
