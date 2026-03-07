@@ -196,6 +196,11 @@ class Chetan:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RathodChetan1122&theme=tokyonight&hide_border=true" />
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RathodChetan1122/RathodChetan1122/output/github-contribution-grid-snake.svg" />
+</div>
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
