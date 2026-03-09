@@ -153,11 +153,7 @@ class Chetan:
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RathodChetan1122&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10&langs_count=8" />
 </div>
-## 📅 GitHub Contribution Calendar
 
-<div align="center">
-  <img src="https://github-contributions-api.jogruber.de/v4/RathodChetan1122?theme=github-dark" />
-</div>
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -191,10 +187,6 @@ class Chetan:
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 
-## 🔥 Contribution Streak
-<div align="center">
-  <img src="https://github-contributions-api.jogruber.de/v4/RathodChetan1122?y=2025&flat=true" width="100%" alt="2026 Contributions"/>
-</div>
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CURRENTLY LEARNING                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
