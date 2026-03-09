@@ -193,7 +193,7 @@ class Chetan:
 
 ## 🔥 Contribution Streak
 <div align="center">
-  <img src="https://github-contributions-api.jogruber.de/v4/RathodChetan1122?y=2025&flat=true" width="100%" alt="2025 Contributions"/>
+  <img src="https://github-contributions-api.jogruber.de/v4/RathodChetan1122?y=2025&flat=true" width="100%" alt="2026 Contributions"/>
 </div>
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CURRENTLY LEARNING                        -->
