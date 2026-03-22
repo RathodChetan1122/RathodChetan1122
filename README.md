@@ -11,7 +11,7 @@ part....════════════════════════
   
 <!--      ═══════════════════════════════════════════════════════════ --> 
 <!--                    TYPING ANIMATION                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ --> 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Chetan+%F0%9F%91%8B;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+(MERN+%2B+Flutter)+%F0%9F%9A%80;Building+AI-Powered+Real-World+Solutions+%F0%9F%92%A1;Let's+Build+Something+Amazing+Together!+%E2%9C%A8" alt="Typing SVG" />
