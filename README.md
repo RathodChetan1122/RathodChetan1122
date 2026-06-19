@@ -11,7 +11,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=RathodChetan1122&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open%20To%20Work-Opportunities%20Inside-brightgreen?style=for-the-badge&labelColor=1a1a2e" alt="Open To Work" />
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-CGPA%209.10-blue?style=for-the-badge&labelColor=1a1a2e" alt="CGPA Status" />
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-CGPA%208.7-blue?style=for-the-badge&labelColor=1a1a2e" alt="CGPA Status" />
 </p>
 
 </div>
