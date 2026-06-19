@@ -169,6 +169,14 @@ I am actively targeting high-impact roles where I can contribute to core infrast
 *"First, solve the problem. Then, write the code."* — John Johnson 🚀
 
 <br/>
+**If my work helped you or inspired you, drop a ⭐ on any repo — it means the world!**
+
+<a href="https://buymeacoffee.com/chetanrathod77" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
+
+<br/><br/>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
